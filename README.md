@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin: mhsong55](https://img.shields.io/badge/-mhsong55-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mhsong55/)](https://www.linkedin.com/in/mhsong55)
-![](https://visitor-badge.glitch.me/badge?page_id=mhsong55.mhsong55)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mhsong55.mhsong55)
 
 <!--
 **mhsong55/mhsong55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
